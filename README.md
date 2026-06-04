@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<h1>ZeroSearch: Incentivize the Search Capability of LLMs without Searching-By Alibaba
+<h1>ZeroSearch-Alibaba: Incentivize the Search Capability of LLMs without Searching
 </h1>
 </div>
 
