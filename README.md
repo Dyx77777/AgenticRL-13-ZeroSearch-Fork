@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<h1>ZeroSearch-Alibaba: Incentivize the Search Capability of LLMs without Searching-1200+stars
+<h1>ZeroSearch: Incentivize the Search Capability of LLMs without Searching[Alibaba Paper Code Fork][1200+stars]
 </h1>
 </div>
 
